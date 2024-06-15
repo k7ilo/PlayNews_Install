@@ -2,6 +2,8 @@
 Install script to install PlayNews to play the ARN and ARRL news broadcasts
 
 Make the install script executable: chmod +x install_PlayNews.sh
+and to run the install script: ./install_PlayNews.sh
+
 
 To run the script to play news immediately from the console, type:
 /opt/PlayNews/playnews ARN NOW   (To play Amateur Radio Newsline)
