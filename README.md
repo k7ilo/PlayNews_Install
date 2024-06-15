@@ -1,6 +1,8 @@
 # Non-Allstarlink/Asterisk PlayNews v1 - K7ILO 06/2024
 Install script to install PlayNews to play the ARN and ARRL news broadcasts
 
+Make the install script executable: chmod +x install_PlayNews.sh
+
 To run the script to play news immediately from the console, type:
 /opt/PlayNews/playnews ARN NOW   (To play Amateur Radio Newsline)
 /opt/PlayNews/playnews ARRL NOW  (To play American Radio Relay League news)
