@@ -1,5 +1,5 @@
 # Non-Allstarlink/Asterisk PlayNews v1 - K7ILO 06/2024
-Install script for PlayNews to broadcast ARN and ARRL News 
+Install script of PlayNews to broadcast ARN and ARRL News 
 
 Make the install script executable: chmod +x install_PlayNews.sh
 and to run the install script: ./install_PlayNews.sh
